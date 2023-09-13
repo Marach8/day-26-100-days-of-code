@@ -18,7 +18,7 @@ while True:
   print('Press 2 to Exit')
   time.sleep(2)
   print()
-  print('Press anything else to see the menu again')            
+  print('Press anything else to see the menu again.')            
   askUser = input('> ')
   if askUser == '1':
     play()
